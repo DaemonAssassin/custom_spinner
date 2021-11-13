@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Android Components</string>
+
+    <string-array name="cities">
+        <item>Ahmadpur</item>
+        <item>Bahawalpur</item>
+        <item>Bahawalnagar</item>
+        <item>Chichawatni</item>
+        <item>Dherki</item>
+        <item>Hasilpur</item>
+        <item>Islamabad</item>
+        <item>Jalalpur</item>
+        <item>Kaimpur</item>
+        <item>Lailpur</item>
+        <item>Mansehra</item>
+        <item>Peshawar</item>
+        <item>Quetta</item>
+        <item>Rajanpur</item>
+        <item>Sukkur</item>
+        <item>Ahmadpur</item>
+        <item>Bahawalpur</item>
+        <item>Bahawalnagar</item>
+        <item>Chichawatni</item>
+        <item>Dherki</item>
+        <item>Hasilpur</item>
+        <item>Islamabad</item>
+        <item>Jalalpur</item>
+        <item>Kaimpur</item>
+        <item>Lailpur</item>
+        <item>Mansehra</item>
+        <item>Peshawar</item>
+        <item>Quetta</item>
+        <item>Rajanpur</item>
+        <item>Sukkur</item>
+    </string-array>
+</resources>
